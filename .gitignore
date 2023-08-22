@@ -1,0 +1,17 @@
+.*
+/data/*
+/figs/*
+!/data/.gitkeep
+!.gitignore
+
+/papers/
+/samantha_old
+
+*__pycache__
+
+*.svg
+*.pdf
+*.jpg
+*.jpeg
+*.png
+
